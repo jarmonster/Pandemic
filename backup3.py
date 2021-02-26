@@ -12,7 +12,7 @@ y_i = []
 y_r = []
 
 #initial variables
-days = 20 
+days = 20  
 fams  = 500
 buildings = 250
 school_lockdown =True
